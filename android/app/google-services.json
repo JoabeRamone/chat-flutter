@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637208144379",
+    "firebase_url": "https://chat-flutter-2-69349.firebaseio.com",
+    "project_id": "chat-flutter-2-69349",
+    "storage_bucket": "chat-flutter-2-69349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637208144379:android:5f2cf8e3eaf291c37c035e",
+        "android_client_info": {
+          "package_name": "ramone.com.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637208144379-k60mpr38fogko3t7dktsgotc7vh469hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ramone.com.br",
+            "certificate_hash": "3e787e9289ab035b4fcff73254bb5b58622c0263"
+          }
+        },
+        {
+          "client_id": "637208144379-am4d6lo66e0njjh4db1g5sjtb87vi3ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm91c5A0p4GqPkRHSoglZQaNpC3hjdaRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637208144379-am4d6lo66e0njjh4db1g5sjtb87vi3ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
